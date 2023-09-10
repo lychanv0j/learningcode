@@ -1,5 +1,5 @@
 #include<stdio.h>
-// function test
+#include<string.h>
 int check(int x, int y)
 {
 	if(x==y)
@@ -50,5 +50,4 @@ int main()
 	scanf("%d",&c);
 	printf("------------\n");
 	number(a,b,c);
-	//tyuii
 }
